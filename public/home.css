@@ -1,0 +1,18 @@
+.data-container {
+  margin: 50px;
+}
+.logo {
+  width: 15%;
+  height: 18px;
+}
+.mainImg {
+  position: absolute;
+  left: calc(50% + 80px);
+  right: 0;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-position: 100%;
+  top: 0;
+  background-color: hsla(26, 5%, 70%, 0.2);
+}
